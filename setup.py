@@ -10,10 +10,8 @@ with open("README.rst") as fp:
 
 setup(
     name="django-jsonfield",
-    version=version,
+    version="1.4.1",
     description="JSONField for django models",
-    long_description=long_description,
-    long_description_content_type="text/x-rst",
     url="https://github.com/adamchainz/django-jsonfield",
     author="Matthew Schinckel",
     author_email="matt@schinckel.net",
